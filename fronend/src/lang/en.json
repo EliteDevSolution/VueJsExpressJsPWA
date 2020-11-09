@@ -1,0 +1,221 @@
+{
+    "global": {
+        "field": {
+            "FirstName": "FirstName",
+            "LastName": "LastName",
+            "Sex": "Sex",
+            "date_of_birth": "Date of birth",
+            "Phone": "Phone",
+            "Whatsapp": "Whatsapp",
+            "Email": "E-mail",
+            "EmailConfirmation": "Confirm E-mail",
+            "Password": "Password",
+            "CreatePassword": "Create a password",
+            "PasswordConfirmation": "Confirm your password",
+            "Login": "Login",
+            "Logout": "Logout",
+            "Signup": "Sign up",
+            "Register": "Register",
+            "Or": "OR",
+            "Male": "Male",
+            "Female": "Female",
+            "Uploadphoto": "Upload photo",
+            "Remove": "Remove",
+            "Backhome": "Back to Home",
+            "404Error": "404 - Page Not Found!",
+            "404Text": "The page is not exist. Try again or use for ohter url.",
+            "Other": "Other"
+        },
+        "button": {
+            "save_change": "Save changes"
+        },
+        "switch": {
+            "activated": "Activated",
+            "inactivated": "Inactivated"
+        },
+        "Error": "Error",
+        "Success": "Success"
+    },
+
+    "message": {
+        "creditional": "The provided credential is incorrect.",
+        "serverError": "An error occurred when connecting to the server.",
+        "vaildationError": "The input values validation failed.",
+        "DefaultImageRemoveError": "You can not remove default avatar.",
+        "AllowFileUploadSizeLimit": "Allowed JPG, GIF or PNG. Max size of 2M",
+        "oldPasswordValid": "Old password is vaild.",
+        "DataLoadingError": "An error occurred when loading the data.",
+        "DataDeleteSuccess": "The data was successfully deleted.",
+        "UserActivated": "User status is activated.",
+        "AreYouSure": "Are you sure?",
+        "CanNotRevert": "You would not be able to revert this!",
+        "UserInactivated": "User status is inactivated",
+        "emailAlreadyTaken": "The email has already registered."
+    },
+
+    "login": {
+        "welcome": "Welcome, enter your",
+        "and": "and",
+        "or": "Or",
+        "below": "below",
+        "RememberMe": "Remember Me",
+        "ForgotPassword": "Forgot Password?",
+        "OR": "OR",
+        "already_login": "You are already logged in!",
+        "attempt_title": "Login Attempt"
+    },
+
+    "register": {
+        "create": "Create your account",
+        "fill": "Fill in your details carefully, the Forensic Academy uses this information to issue their",
+        "invoices": "invoices",
+        "and": "and their",
+        "certificaters": "Certificates of Participation",
+        "view_contract": "View Contract",
+        "already_registered": "Already registered",
+        "acceptCondition": "I have read and agree to the Agreement Terms."
+    },
+
+    "my_data": {
+        "title": "My Data",
+        "personal_data": {
+            "title": "Personal Data",
+            "resend_confirm": "Resend Confirmation",
+            "email_not_confirm": "Your email has not been confirmed. Please check your email inbox.",
+            "message_save_success": "Personal Information was saved successfully."
+        },
+        "change_password": {
+            "title": "Change Password",
+            "old_password": "Old Password",
+            "new_password": "New Password",
+            "confirm_password": "Confirm Password",
+            "message_save_success": "Password was changed successfully."
+        },
+        "embed_code": {
+            "title": "Embed Code",
+            "token": "Token",
+            "embed_code": "Embed Code",
+            "generate": "Generate",
+            "save": "Save",
+            "message_token_generate_success": "Token was generated successfully.",
+            "message_embed_code_generate_success": "Embed Code was generated successfully."
+        },
+        "response_url": {
+            "title": "Response URL",
+            "save": "Save",
+            "message_response_url_success": "Response URL was saved successfully."
+        },
+        "merchant_info": {
+            "title": "Merchant Info",
+            "name": "Merchant Name",
+            "nit": "NIT",
+            "org_id": "Organization ID",
+            "save": "Save",
+            "message_info_success": "The information was saved successfully."
+        }
+    },
+    "menu": {
+        "title": "Menu"
+    },
+    "home": {
+        "title": "Home"
+    },
+    "dashboard": {
+        "daily": "Daily",
+        "weekly": "Weekly",
+        "monthly": "Monthly",
+        "description": "Payment Description",
+        "amount": "Amount",
+        "transactions": "Transactions"
+    },
+    "campaigns": {
+        "title": "Campaigns"
+    },
+    "users": {
+        "title": "Users",
+        "general_info": "General Information",
+        "email": "Email",
+        "name": "Name",
+        "surname": "Surname",
+        "role": "Role",
+        "action": "Action",
+        "add": "Add User",
+        "edit": "Edit",
+        "status": "Status",
+        "delete": "Delete",
+        "add_user": {
+            "title": "Add User",
+            "save": "Save"
+        },
+        "update_user": {
+            "title": "User Update",
+            "save": "Save"
+        },
+        "gw_conf": {
+            "title": "Gateway Configuration",
+            "mer_name": "Merchant Name",
+            "mer_nit": "NIT",
+            "mer_org_id": "Org ID",
+            "mer_id": "Cybersource ID",
+            "mer_secret_key": "Secret Key",
+            "mer_access_key": "Access Key",
+            "mer_profile_id": "Profile ID"
+        },
+        "message_success_user_update": "The user was updated successfully."
+    },
+    "transaction": {
+        "title": "Transaction"
+    },
+    "classrooms": {
+        "title": "Classrooms",
+        "active": {
+            "title": "Active Rooms"
+        },
+        "completed": {
+            "title": "Completed Rooms"
+        }
+    },
+    "my_certificates": {
+        "title": "My Certificates"
+    },
+    "chat": {
+        "title": "Chat"
+    },
+    "post": {
+        "title": "Posts"
+    },
+    "deposition": {
+        "title": "Depositions"
+    },
+    "financial": {
+        "title": "Financial",
+        "bill": {
+            "title": "Bills"
+        },
+        "invoice": {
+            "title": "Invoices"
+        }
+    },
+    "help": {
+        "title": "Help",
+        "faq": {
+            "title": "FAQ"
+        },
+        "tutorial": {
+            "title": "Tutorials"
+        }
+    },
+    "iconvert": {
+        "company": "Enkompass",
+        "title": "IConvert",
+        "courses": {
+            "title": "Courses"
+        },
+        "faculty": {
+            "title": "Faculty"
+        },
+        "news": {
+            "title": "News"
+        }
+    }
+}
